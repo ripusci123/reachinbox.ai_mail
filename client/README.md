@@ -63,7 +63,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment]([https://ripusci123.github.io/reachinbox.ai_mail/])
+This section has moved here: [[(https://ripusci123.github.io/reachinbox.ai_mail/)]]([(https://ripusci123.github.io/reachinbox.ai_mail/)])
 
 ### `npm run build` fails to minify
 
