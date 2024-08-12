@@ -68,6 +68,7 @@ const Onebox = () => {
     return () => {
       document.removeEventListener('keydown', handleKeydown);
     };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [selectedThread]);
 
   // Save message
